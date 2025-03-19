@@ -1,6 +1,6 @@
 # LainOS-Wallpapers
 ## This repo has all the Wallpapers for the LainOS Distro
-The different folders have a variation of artist, if you have any wallpaper folder that you like and is not here feel free to fork the repository and add it or contact us.
+The folders have a variation of artist, if you have any wallpaper folder that you like and is not here feel free to fork the repository and add it with the respective artists credit or contact us.
 # Artists
 OmniDisplay: https://omni.vi/
 
